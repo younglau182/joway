@@ -1,9 +1,54 @@
-highlighter: true
-permalink: /essays/:title.html
-source: source
-destination: build
-timezone: America/Denver
-safe: false
-assets:
-  js_compressor:  uglifier
-  css_compressor: sass
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "andreicek"
+description: > # this means to ignore newlines until "email:"
+   A site where I post things that I find interesting (aka blog).
+
+email: crnkovic.a.z@gmail.com
+#blog logo
+logo: "/assets/images/a_logo.png"
+# blog cover
+cover: "/assets/images/books.jpg"
+
+name: 'andreicek'
+author: 'Andrei Zvonimir Crnkovic'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://andreicek.eu" # the base hostname & protocol for your site
+baseurl: ""
+
+permalink: /:title/
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/andreicek
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/andreicek
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
