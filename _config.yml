@@ -3,44 +3,44 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "andreicek"
+title: "Joway.W"
 description: > # this means to ignore newlines until "email:"
    A site where I post things that I find interesting (aka blog).
 
-email: crnkovic.a.z@gmail.com
+email: 670425438@qq.com
 #blog logo
 logo: "/assets/images/a_logo.png"
 # blog cover
 cover: "/assets/images/books.jpg"
 
-name: 'andreicek'
-author: 'Andrei Zvonimir Crnkovic'
+name: 'Joway'
+author: 'Joway'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://andreicek.eu" # the base hostname & protocol for your site
+url: "http://joway-w.com" # the base hostname & protocol for your site
 baseurl: ""
 
 permalink: /:title/
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/andreicek
+    url:	https://twitter.com/joway_w
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
 #  - icon:	facebook
-#    url:	https://facebook.com/???
+#    url:	https://facebook.com/jowaywong
 #    desc: Connect with me facebook
 #    share_url: //www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/andreicek
+    url:	https://github.com/joway
     desc:	Fork me on github
     share_url:
     share_title:
