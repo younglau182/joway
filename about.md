@@ -4,14 +4,40 @@ title: About me
 permalink: /about/
 ---
 
-Hello, I am a software engineering student from Croatia.
+**Joway.W**
 
-My main interests at the moment are algorithms, web applications, Java and Linux administration. I also work in ruby and python (sysadmin scritping), C++ and C# (school work).
+大学生，程序猿，文学爱好者
 
-My hobbies are system and network administration, electronics and running.
+喜欢摄影，旅行，读书。
 
-I had my CV on my site for a long time, but it was proven that it's not as versitile as my [LinkedIn](http://hr.linkedin.com/in/andreicek/) profile.
+热爱生活，热爱女人。
 
-I love traveling, sea, LoFi rock music and cooking. 
+总是捣鼓些新奇玩意。
 
-Take a look at my work on [GitHub](https://github.com/andreicek). Follow me on [Twitter](http://twitter.com/andreicek).
+在这里会写些日常随笔，读书笔记，技术摘要。
+
+至于博客对我的意义，无非是自己为自己死后准备的坟。
+
+坟上的草，在我年轻时，就看着它一点点长起。
+
+新浪微博:[**Joway_**](http://weibo.com/670425438?from=profile&wvr=5&loc=infdomain)
+
+QQ: **670425438**
+
+邮箱：**Joway.W@gmail.com**
+
+Facebook:**Joway Wong**
+
+github:[**Joway**](http://github.com/joway)
+
+知乎：[**Joway**](http://www.zhihu.com/people/Joway)
+
+豆瓣：[**Joway**](http://www.douban.com/people/54019708/)
+
+备用网址：
+
+[Joway-W.com](Joway-W.com)
+
+[joway.tk](joway.tk)
+
+[joway.github.io](joway.github.io)
