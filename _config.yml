@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "Joway.W"
 description: > # this means to ignore newlines until "email:"
-   
+   veni vidi vici.
 
 email: 670425438@qq.com
 #blog logo
@@ -17,7 +17,7 @@ name: 'Joway'
 author: 'Joway'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+
 
 url: "http://joway-w.com" # the base hostname & protocol for your site
 baseurl: ""
