@@ -1,7 +1,8 @@
-﻿---
-layout: post
-title: "杂记其二"
 ---
+layout: post
+title: "杂记其六"
+---
+
 
 **小学生回家了**
  
