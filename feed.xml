@@ -28,3 +28,6 @@ layout: null
     {% endfor %}
   </channel>
 </rss>
+
+      \{\{ post.content  | | split:'<!--break-->' | first \}\}  
+

@@ -17,7 +17,7 @@ name: 'Joway'
 author: 'Joway'
 author_image: "/assets/images/author.jpg"
 
-
+paginate:	5
 
 url: "http://joway-w.com" # the base hostname & protocol for your site
 baseurl: ""
