@@ -1,55 +1,18 @@
-# Build settings
-markdown: redcarpet
-highlighter: pygments
-
-# Site settings
-title: "Joway.W"
-description: > # this means to ignore newlines until "email:"
-   veni vidi vici.
-
-email: 670425438@qq.com
-#blog logo
-logo: "/assets/images/a_logo.png"
-# blog cover
-cover: "/assets/images/books.jpg"
-
-name: 'Joway'
-author: 'Joway'
-author_image: "/assets/images/author.jpg"
-
-paginate:	5
-
-url: "http://joway-w.com" # the base hostname & protocol for your site
-baseurl: ""
-
-permalink: /:title/
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/joway_w
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/jowaywong
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/joway
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
-
+permalink:    /:year/:month/:day/:title
+analytics_id: UA-19957147-1
+title:        Joway.W
+description:  Personal website of Dave Lim
+url:          http://dlimiter.net
+#url:          http://0.0.0.0:4000
+author:       Joway.W
+email:        670425438@qq.com
+twitter:      http://twitter.com/joway_w
+github:       http://github.com/joway
+dribbble:     http://dribbble.com/dlimiter
+linkedin:     http://au.linkedin.com/in/dlimiter
+zerply:       http://zerply.com/profile/dlimiter/public
+keywords:     design,development,software,illustration,css,html,ruby,rails,blog
+comments:     true
+feed:         http://feeds.feedburner.com/dlimiterdotnet
+ignore:       _blog, _posts/folio
+exclude:      Gemfile, Gemfile.lock, Rakefile
