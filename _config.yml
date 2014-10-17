@@ -1,9 +1,23 @@
-destination: ./_site
-auto: false
-lsi: false
-server: false
-server_port: 4000
-pygments: true
-markdown: maruku
-permalink: /:year/:title
-paginate: 5
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Danish Khan
+tagline:
+description:
+url:              http://danishkhan.org
+
+author:
+  name:           'Danish Khan'
+  url:            https://twitter.com/danishkhan
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:          https://github.com/danishkhan
