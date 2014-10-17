@@ -1,6 +1,11 @@
-source :rubygems
+# A sample Gemfile
+source "https://rubygems.org"
 
-gem "jekyll"
-gem "less"
-gem "therubyracer"
-gem "yuicompressor"
+gem 'jekyll', '~> 2.0.0'
+gem 'rake'
+gem 'sass'
+gem 'compass'
+gem 'jekyll-assets'
+gem 'kramdown'
+gem 'aws-sdk'
+gem 'dotenv'

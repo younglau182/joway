@@ -1,18 +1,9 @@
-permalink:    /:year/:month/:day/:title
-analytics_id: UA-19957147-1
-title:        dlimiter
-description:  Personal website of Dave Lim
-url:          http://dlimiter.net
-#url:          http://0.0.0.0:4000
-author:       Dave Lim
-email:        dave@dlimiter.net
-twitter:      http://twitter.com/dlimiter
-github:       http://github.com/dlimiter
-dribbble:     http://dribbble.com/dlimiter
-linkedin:     http://au.linkedin.com/in/dlimiter
-zerply:       http://zerply.com/profile/dlimiter/public
-keywords:     design,development,software,illustration,css,html,ruby,rails,blog
-comments:     true
-feed:         http://feeds.feedburner.com/dlimiterdotnet
-ignore:       _blog, _posts/folio
-exclude:      Gemfile, Gemfile.lock, Rakefile
+highlighter: true
+permalink: /essays/:title.html
+source: source
+destination: build
+timezone: America/Denver
+safe: false
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
