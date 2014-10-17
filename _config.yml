@@ -1,9 +1,24 @@
-highlighter: true
-permalink: /essays/:title.html
-source: source
-destination: build
-timezone: America/Denver
-safe: false
-assets:
-  js_compressor:  uglifier
-  css_compressor: sass
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ShellDone
+tagline:          'Tech & Life'
+description:      'Hello,World! Here is my personal weblog about technology and life.'
+url:              http://shelldone.com
+
+author:
+  name:           'ShellDone'
+  url:            http://weibo.com/shelldone
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+#github:
+#  repo:           https://github.com/poole/lanyon

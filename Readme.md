@@ -1,45 +1,100 @@
-This is the source for my website running at [michaeldwan.com](http://michaeldwan.com). All content is written by me, Michael Dwan. The site is built atop [Jekyll](http://jekyllrb.com) and hosted on [S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html).
+# Lanyon
 
-# Getting Started
+Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+
+![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
+![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
+
+
+## Contents
+
+- [Usage](#usage)
+- [Options](#options)
+  - [Sidebar menu](#sidebar-menu)
+  - [Themes](#themes)
+  - [Reverse layout](#reverse-layout)
+- [Development](#development)
+- [Author](#author)
+- [License](#license)
+
+
+## Usage
+
+Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+
+
+## Options
+
+Lanyon includes some customizable options, typically applied via classes on the `<body>` element.
+
+
+### Sidebar menu
+
+Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
 
 ```
-bundle install
-bundle exec rake serve
+---
+layout: page
+title: About
+---
 ```
 
-This site uses mostly vanilla Jekyll, so [read the docs](http://jekyllrb.com/docs/home/) for more info.
-There are a few custom things going on though:
+**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
 
-* The actual source files are under the `source` directory instead of the repo root. Jekyll compiles the source to the build directory.
-* [jekyll-assets](https://github.com/ixti/jekyll-assets) is used to compile [SCSS](http://sass-lang.com) files, located in `source/_assets/stylesheets`, into CSS. Jekyll 2.0 has builtin support for SCSS, but jekyll-assets appends a hash to the generated asset files which ensures updated assets aren't cached downstream. It also plays nicely with images.
-* The [alias generator](http://github.com/tsmango/jekyll_alias_generator) plugin is being used to generate redirect pages.
 
-# Configuration
+### Themes
 
-I love when people fork and redeploy this code, but a few times it's been done while still using my site's Google Anaytics or Disqus configs. To stop that from happening, I've removed the hardcoded ids and split out configuration into global and personal config files.
+Lanyon ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
-Standard Jekyll settings are in the `_config.yml` file and config specific to my site is in an uncommitted file called `_local_config.yml`. An example of what my personal config looks is in `_local_config.yml.example`.
+![Lanyon with red theme](https://f.cloud.github.com/assets/98681/1825270/be065110-71b0-11e3-9ed8-9b8de753a4af.png)
+![Lanyon with red theme and open sidebar](https://f.cloud.github.com/assets/98681/1825269/be05ec20-71b0-11e3-91ea-a9138ef07186.png)
 
-When calling Jekyll, just specify both config files and the values will be merged.
+There are eight themes available at this time.
 
-`bundle exec jekyll serve --config _config.yml,_local_config.yml`
+![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
 
-A `rake serve` task wraps that call up so you don't have to remember the `--config` flag each time:
+To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
 
-`bundle exec rake serve`
+```html
+<body class="theme-base-08">
+  ...
+</body>
+```
 
-# Deployment
+To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
 
-My site is hosted on S3 and served with CloudFront. I've created a small rake task that builds the site and deploys it to an S3 bucket. It only uploads new or changed files, so deploys are fast even for large sites. It'll also remove any stale files left from previous deploys.
 
-Your AWS keys and bucket are through `ENV` variables. I'm using the [dotenv](https://github.com/bkeepers/dotenv) gem to load variables from a `.env` file before deploying. Since AWS keys are sensitive, the `.env` file isn't committed to source. Take a look at the `.env.example` file to see what your `.env` file should look like.
+### Reverse layout
 
-To deploy, just run:
+![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
+![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
 
-`rake deploy`
+Reverse the page orientation with a single class.
 
-You can probably also deploy this to Github pages, though I haven't tried it in a few years.
+```html
+<body class="layout-reverse">
+  ...
+</body>
+```
 
-# License
 
-This code is licensed [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/). Basically, you can use it however you want, just attribute me somewhere with a link back to [michaeldwan.com](http://michaeldwan.com). Enjoy.
+## Development
+
+Lanyon has two branches, but only one is used for active development.
+
+- `master` for development.  **All pull requests should be to submitted against `master`.**
+- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
+
+
+## Author
+
+**Mark Otto**
+- <https://github.com/mdo>
+- <https://twitter.com/mdo>
+
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
