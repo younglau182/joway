@@ -6,18 +6,18 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Danish Khan
+title:            Joway.W
 tagline:
 description:
-url:              http://danishkhan.org
+url:              http://Joway-W.com
 
 author:
-  name:           'Danish Khan'
-  url:            https://twitter.com/danishkhan
+  name:           'Joway.W'
+  url:            https://twitter.com/joway_w
 
 paginate:         5
 
 # Custom vars
 
 github:
-  repo:          https://github.com/danishkhan
+  repo:          https://github.com/joway
