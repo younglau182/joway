@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts limit: 2 %}
+  {% for post in paginator.posts limit: 5 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -26,7 +26,7 @@ title: Home
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
+    {% if paginator.page == 5 %}
       <a class="pagination-item newer" href="/">Newer</a>
     {% else %}
       <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
