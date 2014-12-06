@@ -1,44 +1,34 @@
 ---
 layout: page
-title: About
+title: About me
+tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+modified: 2014-04-20
+image:
+  feature: so-simple-sample-image-4.jpg
+  credit: Michael Rose
+  creditlink: http://www.fenesky.com/about
 ---
 
-<img src="/public/current_picture.jpg" alt="color photo ftl" width="480" height="320" />
+##Story    
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 
-<p>I'm Joway.W. I live in China. I work at <a href="https://github.com">GitHub</a>.  
+##Motto   
+Someone to love. Something to hope. Something to do.   
 
-大学生，程序猿，文学爱好者
+##Career    
+软件攻城师一枚。曾就职于搜狐，现就职于阿里巴巴。   
 
-喜欢摄影，旅行，读书。
+##Technology
 
-热爱生活，热爱女人。
+* C++
+* WebKit/Chromium
+* JavaScriptCore
+* Google V8
+* 业余HTML5/JS(WebKit工程师必备)
 
-总是捣鼓些新奇玩意。
 
-在这里会写些日常随笔，读书笔记，技术摘要。
+<p/>
+##Contacts:   
 
-至于博客对我的意义，无非是自己为自己死后准备的坟。
-
-坟上的草，在我年轻时，就看着它一点点长起。
-
-新浪微博:[**Joway_**](http://weibo.com/670425438?from=profile&wvr=5&loc=infdomain)
-
-QQ: **670425438**
-
-邮箱：**Joway.W@gmail.com**
-
-Facebook:**Joway Wong**
-
-github:[**Joway**](http://github.com/joway)
-
-知乎：[**Joway**](http://www.zhihu.com/people/Joway)
-
-豆瓣：[**Joway**](http://www.douban.com/people/54019708/)
-
-备用网址：
-
-[Joway-W.com](Joway-W.com)
-
-[joway.tk](joway.tk)
-
-[joway.github.io](joway.github.io)
+<i class="fa fa-envelope"></i>
+[hyman_tan@126.com](mailto:hyman_tan@126.com)（<i class="fa fa-info"></i> 讨论问题请先前往[留言板](/message.html)）
