@@ -5,30 +5,81 @@ tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2014-04-20
 image:
   feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://www.fenesky.com/about
+  credit: Joway.W
+  creditlink: http://www.joway-w.com/about
 ---
 
-##Story    
-Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-
-##Motto   
-Someone to love. Something to hope. Something to do.   
-
-##Career    
-软件攻城师一枚。曾就职于搜狐，现就职于阿里巴巴。   
-
-##Technology
-
-* C++
-* WebKit/Chromium
-* JavaScriptCore
-* Google V8
-* 业余HTML5/JS(WebKit工程师必备)
 
 
-<p/>
-##Contacts:   
+大学生，程序猿，文学爱好者
 
-<i class="fa fa-envelope"></i>
-[hyman_tan@126.com](mailto:hyman_tan@126.com)（<i class="fa fa-info"></i> 讨论问题请先前往[留言板](/message.html)）
+喜欢摄影，旅行，读书。
+
+热爱生活，热爱女人。
+
+总是捣鼓些新奇玩意。
+
+在这里会写些日常随笔，读书笔记，技术摘要。
+
+至于博客对我的意义，无非是自己为自己死后准备的坟。
+
+坟上的草，在我年轻时，就看着它一点点长起。
+
+新浪微博:[**Joway_**](http://weibo.com/670425438?from=profile&wvr=5&loc=infdomain)
+
+QQ: **670425438**
+
+邮箱：**Joway.W@gmail.com**
+
+Facebook:**Joway Wong**
+
+github:[**Joway**](http://github.com/joway)
+
+知乎：[**Joway**](http://www.zhihu.com/people/Joway)
+
+豆瓣：[**Joway**](http://www.douban.com/people/54019708/)
+
+备用网址：
+
+[Joway-W.com](Joway-W.com)
+
+[joway.tk](joway.tk)
+
+[joway.github.io](joway.github.io)
+
+
+
+
+>無故尋愁覓恨，
+>
+>有時似傻如狂。
+>
+>縱然生得好皮囊，
+>
+>腹內原來草莽。
+>
+>潦倒不通世務，
+>
+>愚頑怕讀文章。
+>
+>行為偏僻性乖張，
+>
+>那管世人誹謗！
+>
+>富貴不知樂業，
+>
+>貧窮難耐淒涼。
+>
+>可憐辜負好韶光，
+>
+>於國於家無望。
+>
+>天下無能第一，
+>
+>古今不肖無雙。
+>
+>寄言紈絝與膏粱：
+>
+>莫效此兒形狀！
+
+
