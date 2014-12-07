@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "c重点习题" 
+title: "c重点习题"
+comments: true
+share: true
+tags: C习题集 
 ---
 
 循环-04. 验证“哥德巴赫猜想”(20)

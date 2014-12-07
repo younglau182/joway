@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "常用函数库" 
+comments: true
+share: true
+tags: C常用函数
 ---
 
 
