@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "木心"
-date: 2014-03-19 03:03
-category: tools
+comments: true
+share: true
+tags: 随感
 ---
 
 我想了想，觉得在理。

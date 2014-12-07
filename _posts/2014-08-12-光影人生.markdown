@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "光影人生"
+comments: true
+share: true
+tags: 摄影
 ---
 
 

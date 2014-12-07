@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "有关怜悯"
+comments: true
+share: true
+tags: 随感
 ---
 
 

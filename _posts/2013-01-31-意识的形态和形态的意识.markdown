@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "意识的形态和形态的意识"
+comments: true
+share: true
+tags: 随感
 ---
 
 

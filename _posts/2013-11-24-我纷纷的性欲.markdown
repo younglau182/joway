@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "我纷纷的性欲"
+comments: true
+share: true
+tags: 诗
 ---
 
 

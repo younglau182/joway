@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "香港，香港，香港"
+comments: true
+share: true
+tags: 随感
 ---
 
 

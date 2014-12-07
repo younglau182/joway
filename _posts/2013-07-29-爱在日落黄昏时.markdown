@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "爱在日落黄昏时"
+comments: true
+share: true
+tags: 小说
 ---
 
 

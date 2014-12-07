@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "幻之所遇，亦如诸事"
+comments: true
+share: true
+tags: 诗
 ---
 
 

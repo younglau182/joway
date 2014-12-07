@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "逆风的方向更适合飞翔"
+comments: true
+share: true
+tags: 随感
 ---
 
 

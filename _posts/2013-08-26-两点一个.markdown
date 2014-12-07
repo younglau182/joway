@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "两点一个"
+comments: true
+share: true
+tags: 小说
 ---
 
 

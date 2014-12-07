@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "逃"
+comments: true
+share: true
+tags: 诗
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "习特勒的文艺座谈会"
+comments: true
+share: true
+tags: 随感
 ---
 
 

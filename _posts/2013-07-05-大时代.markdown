@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "大时代"
+comments: true
+share: true
+tags: 诗
 ---
 
 

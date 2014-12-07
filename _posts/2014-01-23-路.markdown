@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "路" 
+comments: true
+share: true
+tags: 诗
 ---
 
 

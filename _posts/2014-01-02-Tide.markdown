@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Tide" 
+comments: true
+share: true
+tags: 诗
 ---
 
 

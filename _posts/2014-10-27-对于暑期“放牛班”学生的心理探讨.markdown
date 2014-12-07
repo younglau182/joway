@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "对于暑期“放牛班”学生的心理探讨" 
+comments: true
+share: true
+tags: 随感
 ---
 
 

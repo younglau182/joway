@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "命" 
+comments: true
+share: true
+tags: 诗
 ---
 
 

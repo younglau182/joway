@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "杂记其三"
+comments: true
+share: true
+tags: 诗
 ---
 
 

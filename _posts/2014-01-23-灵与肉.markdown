@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "灵与肉"
+comments: true
+share: true
+tags: 诗
 ---
 
 

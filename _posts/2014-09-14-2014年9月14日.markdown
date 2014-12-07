@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "2014年9月14日"
+comments: true
+share: true
+tags: 随感
 ---
 
 

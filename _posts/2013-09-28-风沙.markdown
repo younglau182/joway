@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "风沙" 
+comments: true
+share: true
+tags: 诗
 ---
 
 

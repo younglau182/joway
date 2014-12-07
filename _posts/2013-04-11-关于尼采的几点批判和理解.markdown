@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "关于尼采的几点批判和理解"
+comments: true
+share: true
+tags: 随感
 ---
 
 

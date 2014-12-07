@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "白天我是奴隶，晚上我是王子"
+comments: true
+share: true
+tags: 随感
 ---
 
 

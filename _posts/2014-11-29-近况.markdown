@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "近况"
+comments: true
+share: true
+tags: 随感
 ---
 
 

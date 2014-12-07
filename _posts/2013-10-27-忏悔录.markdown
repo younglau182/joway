@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "忏悔录"
+comments: true
+share: true
+tags: 随感
 ---
 
 
