@@ -13,19 +13,21 @@ comments: true
 body {
 background-image:url('/images/html_bg.gif');  
 background-repeat:repeat;
-<div id="bm_comments"></div>
+<!-- 多说评论框 start -->
+	<div class="ds-thread" data-thread-key="请将此处替换成文章在你的站点中的ID" data-title="请替换成文章的标题" data-url="请替换成文章的网址"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-    var bm_url = "";        // 页面链接，默认当前页面URL
-    var bm_title = "";      // 页面标题，默认为 <title>
-    var bm_identify = "";
-    // 页面ID,默认为bm_url,如果您的一个页面有多个URL但又想显示相同的评论可以设置此参数。
-    var bm_placeholder = ""; // 一个ID，将评论显示在此元素中，默认为 bm_comments。
-    
-    (function(){
-        var script = document.createElement('script'); script.type = "text/javascript";
-        script.src = "http://baye.me/script?key=c45c0eac859511e4bbf4123143074826";
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-    })();
-</script>
+var duoshuoQuery = {short_name:"jowaywong"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
 }
 </style>
