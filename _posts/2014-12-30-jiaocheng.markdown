@@ -48,8 +48,8 @@ tags: 教程
 
 ## goagent ##
 
-资源：[Chrome+Firefox+gagent一体包](http://pan.baidu.com/s/1qWqL7JI)
-提取密码：urn1
+资源：[Chrome+Firefox+gagent一体包](http://pan.baidu.com/s/1pJC2t8R)
+
 
 优点：
 
