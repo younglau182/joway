@@ -48,7 +48,7 @@ tags: 教程
 
 ## goagent ##
 
-资源：Chrome+Firefox+gagent一体包
+资源：[Chrome+Firefox+gagent一体包](http://joway-w.com/jowaygoagent.rar)
 
 优点：
 
