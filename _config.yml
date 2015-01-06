@@ -4,8 +4,8 @@ logo:             site-logo.png
 disqus_shortname: Joway
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://joway-w.com
-asset_url:        http://joway-w.com 
+url:              http://joway.wang
+asset_url:        http://joway.wang 
 
 # Owner/author information
 owner:
