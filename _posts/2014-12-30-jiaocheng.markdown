@@ -82,13 +82,13 @@ Chrome 需安装扩展应用，下载压缩包解压后，打开Chrome文件夹�
 
 ## goagent自制 ##
 
-资源：[http://joway-w.com/GoAgenthelp.rar](http://joway-w.com/GoAgenthelp.rar)
+资源：[http://joway.wang/GoAgenthelp.rar](http://joway-w.com/GoAgenthelp.rar)
 
 如果你对自己的动手能力有信心，你也可以尝试下自己做一个专用的goagent，上面的文件中有一个exe文件，点开根据他的提示，可以一步步做下去，这个网速会比上面的快，因为上面的是我自己做并共享了的。
 
 ## 自由门 ##
 
-资源：[http://joway-w.com/ziyoumeng7.5.zip](http://joway-w.com/ziyoumeng7.5.zip)
+资源：[http://joway.wang/ziyoumeng7.5.zip](http://joway-w.com/ziyoumeng7.5.zip)
 
 如果你觉得上面的这种操作过于繁琐（其实我已经把中间80%的步骤自己做好打包塞进压缩包里了，已经够简单了）
 
@@ -144,7 +144,7 @@ Tor Browser
 
 想当初安装ruby要去提个taobao.org的地方下镜像，东弄西弄还弄不好。说起这个天朝连一个环境的安装包的地址都要封，也真是丧心病狂到无耻的地步了。
 
-推荐一个日本学生开发的VPN工具，[SoftEther VPN Client 管理工具](https://joway-w.com/vpngate-client.rar)。
+推荐一个日本学生开发的VPN工具，[SoftEther VPN Client 管理工具](https://joway.wang/vpngate-client.rar)。
 
 可以全方位翻墙，并且也是修改IP变成外国的好帮手。
 
