@@ -20,7 +20,7 @@ tags: Linux
 
 环境：windows7 （win8下也可行）
 
-# U盘安装Ubuntu 14.10正式版 #
+# U盘安装Ubuntu 14.10 #
 
 ## 1、 ##
 
