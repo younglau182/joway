@@ -47,13 +47,13 @@ tags: 开发工具
 >     ]
 >     }
 
-然后保存，保存的名字自己随便起，比如：C.sublime-build，注意后缀一定为.sublime-build。
+然后保存，保存的名字自己随便起，比如：C++.sublime-build，注意后缀一定为.sublime-build。
 
-该文件被保存在Sublime Text 2目录下的Data\Packages\User中。
+该文件被保存在Sublime Text 3目录下的Data\Packages\User中。
 
 然后在Tools –> Build System中选中该文件。
 
-重启Sublime text 2 即可开始编译C了。
+重启Sublime text 3 即可开始编译C++了。
 
 Ctrl+B构建，Ctrl+shift+B运行。
 
