@@ -97,4 +97,15 @@ Ctrl+B构建，Ctrl+shift+B运行。
 > Shift + F3：跳到当前关键字上一个位置
 > 
 > Alt + F3：选中当前关键字出现的所有位置
-> 
+
+
+
+
+
+
+--------- 
+## 参考资料 ##
+
+[Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/ "Sublime Text 全程指南")
+
+[使用SublimeText和MinGW构建轻量级C/C++编译器的开发环境设置](http://www.chenhaizan.cn/article-sublime~text~3~and~mingw~set~c~development~environment.html# "使用SublimeText和MinGW构建轻量级C/C++编译器的开发环境设置")
