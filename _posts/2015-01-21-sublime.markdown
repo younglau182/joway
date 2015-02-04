@@ -28,6 +28,8 @@ tags: 开发工具
 3. 运行CMD(开始-> 运行-> Cmd)，输入：mingw-get后则会运行MinGW界面，这里说明变量设置成功，然后输入：g++ -v，用于检测安装g++有没有成功。
 4. 此时在Sublime Text中写一段简单的C++程序，注意！！！要保存为一个.cpp结尾的文件后，再 ctrl+b 进行编译，ctrl+shift+b 进行运行，若有错误信息弹出，如图：![](http://chenhaizan-upload.stor.sinaapp.com/article/image/201402/52f8eb6d8ea26.png)则说明g++没有安装成功。
 5. 若仍出现编译错误，则可尝试在Tools –> Build System –> New Build System中，把下面内容复制进去：
+
+
 >     {
 >     "cmd": ["g++", "${file}", "-o", "${file_path}/${file_base_name}"],
 >     "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
