@@ -38,11 +38,14 @@ tags: 开发工具
 >     [
 >     {
 >     "name": "Run",
->     "cmd": ["cmd", "/c", "g++", "${file}", "-o", "${file_path}/${file_base_name}", "&&", "cmd", "/c", "${file_path}/${file_base_name}"]
+>     "cmd": ["cmd", "/c", "g++", "${file}", "-o", "${file_path}/
+>     ${file_base_name}", "&&", "cmd", "/c", "${file_path}/${file_base_name}"]
 >     },
 >     {
 >     "name": "RunInCommand",
->     "cmd": ["cmd", "/c", "g++", "${file}", "-o", "${file_path}/${file_base_name}", "&&", "start", "cmd", "/c", "${file_path}/${file_base_name} & pause"]
+>     "cmd": ["cmd", "/c", "g++", "${file}", "-o", "${file_path}/
+>     ${file_base_name}", "&&", "start", "cmd", "/c", "${file_path}/
+>     ${file_base_name} & pause"]
 >     }
 >     ]
 >     }

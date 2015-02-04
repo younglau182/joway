@@ -41,11 +41,13 @@ github:[**Joway**](http://github.com/joway)
 
 备用网址：
 
-[Joway-W.com](Joway-W.com)
+[Joway-W.com](http://Joway.Wang)
 
-[joway.tk](joway.tk)
+[Joway-W.com](http://Joway-W.com)
 
-[joway.github.io](joway.github.io)
+[joway.tk](http://joway.tk)
+
+[joway.github.io](http://joway.github.io)
 
 
 
