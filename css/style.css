@@ -84,7 +84,7 @@
 		-o-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-		background-color: #FFFFFF;
+		background-color: #000000;
 		background-image: url("http://joway.wang/css/images/bg.jpg");
 		background-position: bottom left;
 		background-repeat: repeat-x;
