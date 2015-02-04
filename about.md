@@ -41,7 +41,7 @@ github:[**Joway**](http://github.com/joway)
 
 备用网址：
 
-[Joway-W.com](http://Joway.Wang)
+[Joway.wang](http://Joway.Wang)
 
 [Joway-W.com](http://Joway-W.com)
 
